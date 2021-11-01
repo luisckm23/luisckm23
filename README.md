@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Luis 
+- 👀 I’m interested in technology in general, but I´m more into Python bc I´ll like to become in a Data Scientist
+- 🌱 I’m currently learning Python mainly to reach my goal 
+- 📫 How to reach me @luisckm23
